@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-navbar-with-routing/static/css/main.b4651b70.css",
+    "main.js": "/react-navbar-with-routing/static/js/main.84bdec6b.js",
+    "index.html": "/react-navbar-with-routing/index.html",
+    "main.b4651b70.css.map": "/react-navbar-with-routing/static/css/main.b4651b70.css.map",
+    "main.84bdec6b.js.map": "/react-navbar-with-routing/static/js/main.84bdec6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4651b70.css",
+    "static/js/main.84bdec6b.js"
+  ]
+}
